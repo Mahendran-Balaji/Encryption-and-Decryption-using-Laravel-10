@@ -1,4 +1,4 @@
-## Encrypt and Decrypt Plain Text in Laravel 10
+## Encryption and Decryption in Laravel 10
 
 Laravel can encrypt it in Eloquent Models by simply casting it as encrypted.
 
